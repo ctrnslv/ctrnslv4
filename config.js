@@ -49,7 +49,7 @@ var config = {
 
                       location: {
                           center: [16.55067, 40.39014],
-                          zoom: 14,
+                          zoom: 14.5,
                           pitch:45,
                           bearing: 0
                       },
@@ -68,7 +68,7 @@ var config = {
                           description: 'Intervisto l\' Avvocato Di Pisa, che difende le parti civili nel processo Petrolgate.<br><br><iframe src="https://drive.google.com/file/d/1JXwpJ7FcjlGzaaMwnMMW1lXUPiYJzLlU/preview" width="350" height="100" allow="autoplay"></iframe><br><p><a href="https://drive.google.com/drive/folders/1hBI-gmM4Up0r24OIa5GQ0jtuJUKfqHfS?usp=sharing">Accedi alle sentenze sul processo</a></p>',
                           location: {
                               center: [16.55850, 40.39065],
-                              zoom: 14,
+                              zoom: 14.5,
                               pitch: 45,
                               bearing: 0
                           },
@@ -87,7 +87,7 @@ var config = {
                               description: 'Mi presento alla comunità di Pisticci nella loro Chiesa e ascolto le loro voci e denunce.<br><br><iframe src="https://drive.google.com/file/d/1gb4HyYjqjwwJo9qFqFLg2ChtzPu_Li4e/preview" width="350" height="100" allow="autoplay"></iframe>',
                               location: {
                                   center: [16.55850, 40.39065],
-                                  zoom: 14,
+                                  zoom: 14.5,
                                   pitch: 45,
                                   bearing: 0
                               },
