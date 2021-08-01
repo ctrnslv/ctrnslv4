@@ -48,7 +48,7 @@ var config = {
                       description: 'Trovo Nico, insegnante a scuola e sentinella, che mi racconta delle battaglie del Movimento Tutela Val Basento per l\’ambiente lucano.<br><br><iframe width="350" height="250" src="https://www.youtube.com/embed/JxxuBJ2epl0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br><p><a href="https://drive.google.com/drive/folders/1PBxVD-gW8TZVg92sXGhUyjNDGkCMh-fF">Visita le risorse online</a></p><br><p><a href="http://movimentovalbasento.altervista.org/">Visita:movimentovalbasento</a></p>',
 
                       location: {
-                          center: [16.55067, 40.39014],
+                          center: [16.55850, 40.39065],
                           zoom: 14.5,
                           pitch:45,
                           bearing: 0
