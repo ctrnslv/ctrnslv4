@@ -63,7 +63,7 @@ var config = {
                           id: 'eighth-style-id',
                           alignment: 'left',
                           hidden: false,
-                          title: 'Pisticci-studio legale',
+                          title: 'Pisticci - Studio legale',
                           image: 'https://inchiestasentinelle.webnode.it/_files/200000076-8cd838cd85/sentinella4-3.jpg',
                           description: 'Intervisto l\'Avvocato Di Pisa, che difende le parti civili nel processo Petrolgate.<br><br><iframe width="350" height="250" src="https://www.youtube.com/embed/rstAMN2-l5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><p><a href="https://drive.google.com/drive/folders/1hBI-gmM4Up0r24OIa5GQ0jtuJUKfqHfS?usp=sharing">Accedi alle sentenze sul processo</a></p>',
                           location: {
@@ -82,7 +82,7 @@ var config = {
                               id: 'aa-style-id',
                               alignment: 'right',
                               hidden: false,
-                              title: 'Pisticci-Chiesa',
+                              title: 'Pisticci - Chiesa',
                               //image: ,
                               description: 'Mi presento alla comunità di Pisticci nella loro Chiesa e ascolto le loro voci e denunce.<br><br><iframe width="350" height="250" src="https://www.youtube.com/embed/kTwIGHfi5po" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
                               location: {
@@ -177,7 +177,7 @@ var config = {
                                                   id: 'ff-style-id',
                                                   alignment: 'left',
                                                   hidden: false,
-                                                  title: 'Viggiano - cantro Oli',
+                                                  title: 'Viggiano - Centro Oli',
                                                   //image: ,
                                                   description: 'Percorriamo il perimetro del Centro Oli, dove mura colorate stridono con la realtà estrattiva racchiusa all\'interno.<br><br><iframe width="350" height="250" src="https://www.youtube.com/embed/HsSyVOTEiQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br><p><a href="https://www.eni.com/eni-basilicata/chi-siamo/centro-olio-val-d-agri.page">Visita la pagina del Centro Oli</a></p>',
                                                   location: {
@@ -234,7 +234,7 @@ var config = {
                                                               id: 'ii-style-id',
                                                               alignment: 'right',
                                                               hidden: false,
-                                                              title: 'Policoro - studio legale',
+                                                              title: 'Policoro - Studio legale',
                                                               image: 'https://inchiestasentinelle.webnode.it/_files/200000085-a7919a791c/sentinella12-0.jpg',
                                                               image1:'https://inchiestasentinelle.webnode.it/_files/200000079-6694566947/sentinella6-7.jpg',
                                                               description: 'Intervisto l\'Avvocato Bellizzi e il Dottor Farina, due professionisti sentinella che guidano i cittadini nel dimostrare gli impatti del petrolio.<br><br><iframe width="350" height="250" src="https://www.youtube.com/embed/xYiY8lFXHiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
@@ -292,7 +292,7 @@ var config = {
                                                                           id: 'nn-style-id',
                                                                           alignment: 'left',
                                                                           hidden: false,
-                                                                          title: 'Corleto Perticara - Tempa Rossa, Total ',
+                                                                          title: 'Corleto Perticara - Tempa Rossa',
                                                                           //image: ,
                                                                           description: 'Ci avviciniamo al sito estrattivo di Tempa Rossa.<r><br><br> <iframe width="350" height="250" src="https://www.youtube.com/embed/6F1mWhUrbMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br><p><a href="https://www.it.total.com/it/pagine/attivita/il-progetto-tempa-rossa ">Vai a pagina Total Tempa Rossa </a></p> ',
                                                                           location: {
@@ -311,7 +311,7 @@ var config = {
                                                                               id: 'oo-style-id',
                                                                               alignment: 'right',
                                                                               hidden: false,
-                                                                              title: 'Corleto Perticara - bosco',
+                                                                              title: 'Corleto Perticara - Pascolo',
                                                                               //image:,
                                                                               description: 'Osservo Mimmo mentre rimuove uno strumento di monitoraggio del gas flaring attraverso il quale ha realizzato un time lapse per Cova Contro.<br><br><iframe width="350" height="250" src="https://www.youtube.com/embed/jFcEa9Z-EHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br><p><a href="https://covacontro.org/# ">Visita la pagina di Cova Contro</a></p>',
                                                                               location: {
@@ -330,7 +330,7 @@ var config = {
                                                                                       id: 'qq-style-id',
                                                                                       alignment: 'left',
                                                                                       hidden: false,
-                                                                                      title: 'Pietrapertosa - dolomiti lucane',
+                                                                                      title: 'Pietrapertosa - Dolomiti lucane',
                                                                                       //image:'https://drive.google.com/file/d/1dg5xvDO1Y3Kyfc6lmIDyEuTvZIOSrtTX/view?usp=sharing' ,
                                                                                       description: 'Ammiro le affascinanti dolomiti lucane che quasi mi fanno dimenticare dei tanti pozzi a pochi chilometri di distanza.<br><br> <iframe width="350" height="250" src="https://www.youtube.com/embed/8Z1beGcgvL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
                                                                                       location: {
@@ -349,7 +349,7 @@ var config = {
                                                                                           id: 'rr-style-id',
                                                                                           alignment: 'right',
                                                                                           hidden: false,
-                                                                                          title: 'Villa d\' Agri - Contrada Case Rosse',
+                                                                                          title: 'Villa d\'Agri - Contrada Case Rosse',
                                                                                           //image: ,
                                                                                           description: 'Intervisto Camilla Nigro di Libera Val d\'Agri e dell\'Osservatorio Popolare Val d\'Agri che mi racconta delle sfide che affrontano le cittadine sentinella.<br><br><iframe width="350" height="250" src="https://www.youtube.com/embed/VURvtiFq6IQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
                                                                                           location: {
